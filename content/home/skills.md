@@ -24,7 +24,7 @@ weight = 20
 [[feature]]
   icon = "commenting-o"
   icon_pack = "fa"
-  name = "Consultancy"
+  name = "Economic Advice"
   description = "Over three years’ experience in economic consulting, providing support to clients on projects across the fields of competition and regulation, public policy and auction design."
 
 [[feature]]
