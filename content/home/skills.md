@@ -1,36 +1,36 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
-
-# Activate this widget? true/false
-active = true
+active = true  # Activate this widget? true/false
 
 title = ""
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 7
 
+# Showcase personal skills or business features.
+# 
 # Add/remove as many `[[feature]]` blocks below as you like.
-# See `config.toml` for more info on available icons.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "bar-chart"
-  icon_pack = "fa"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Data Analysis"
   description = "Proficient in the statistical programming language R, in particular the *tidyverse* collection of packages. Experience in using *Shiny* to create interactive web apps."
   
 [[feature]]
-  icon = "commenting-o"
-  icon_pack = "fa"
+  icon = "comment-dots"
+  icon_pack = "fas"
   name = "Economic Advice"
   description = "Over three years’ experience in economic consulting, providing support to clients on projects across the fields of competition and regulation, public policy and auction design."
 
 [[feature]]
-  icon = "code-fork"
-  icon_pack = "fa"
+  icon = "code-branch"
+  icon_pack = "fas"
   name = "Programming"
   description = "Good knowledge of Python and C++. Past projects include writing an abstraction layer for common linear programming solvers."
-+++
 
++++
